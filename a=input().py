@@ -1,4 +1,4 @@
-import random
+import randoma
 
 rundom_nambers = [random.randint(1,10000) for i in range(10)]
 print(rundom_nambers)
